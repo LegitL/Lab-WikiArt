@@ -17,21 +17,26 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
-      icon: 'list'
+      title: 'Discover',
+      url: '/discover',
+      icon: 'color-palette'
+    },
+    {
+      title: 'About',
+      url: '/about',
+      icon: 'information-circle-outline'
     }
   ];
 
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
-    private statusBar: StatusBar
+    private statusBar: StatusBar,
   ) {
     this.initializeApp();
   }
 
-  initializeApp() {
+  public async initializeApp() {
     this.platform.ready().then(() => {
       this.statusBar.styleDefault();
       this.splashScreen.hide();

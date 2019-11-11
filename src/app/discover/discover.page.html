@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Discover</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="main">
+    <ion-avatar>
+      <ion-img [src]="paintingOfTheDay?.image"></ion-img>
+    </ion-avatar>
+    <ion-button routerLink="styles">Styles</ion-button>
+    <ion-button routerLink="artists">Artists</ion-button>
+  </div>
+</ion-content>

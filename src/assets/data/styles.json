@@ -1,0 +1,2031 @@
+[
+  {
+    "id": 389,
+    "title": "Abstract Art",
+    "url": "abstract-art",
+    "wikipediaUrl": "Abstract_Art",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Robert_Delaunay%2C_1913%2C_Premier_Disque%2C_134_cm%2C_52.7_inches%2C_Private_collection.jpg/318px-Robert_Delaunay%2C_1913%2C_Premier_Disque%2C_134_cm%2C_52.7_inches%2C_Private_collection.jpg",
+    "description": "Art with a degree of independence from visual references in the world",
+    "group": "Modern Art"
+  },
+  {
+    "id": 390,
+    "title": "Abstract Expressionism",
+    "url": "abstract-expressionism",
+    "wikipediaUrl": "Abstract_expressionism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/No._5%2C_1948.jpg/157px-No._5%2C_1948.jpg",
+    "description": "American post–World War II art movement",
+    "group": "Modern Art"
+  },
+  {
+    "id": 15355,
+    "title": "Academicism",
+    "url": "academicism",
+    "wikipediaUrl": "Academic_art",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg/320px-Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg",
+    "description": "Style of painting and sculpture produced under the influence of European academies of art",
+    "group": "Post Renaissance Art"
+  },
+  {
+    "id": 392,
+    "title": "Action painting",
+    "url": "action-painting",
+    "wikipediaUrl": "Action_painting",
+    "thumbnailUrl": "https://uploads3.wikiart.org/composition-with-pouring-ii(1).jpg!PortraitSmall.jpg",
+    "description": "style of painting in which paint is spontaneously dribbled, splashed or smeared onto the canvas",
+    "group": "Modern Art"
+  },
+  {
+    "id": 393,
+    "title": "American Realism",
+    "url": "american-realism",
+    "wikipediaUrl": "American_Realism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bellows_George_Dempsey_and_Firpo_1924.jpg/320px-Bellows_George_Dempsey_and_Firpo_1924.jpg",
+    "description": "American art movement",
+    "group": "Modern Art"
+  },
+  {
+    "id": 394,
+    "title": "Analytical Cubism",
+    "url": "analytical-cubism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 6847,
+    "title": "Analytical Realism",
+    "url": "analytical-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 395,
+    "title": "Art Brut",
+    "url": "art-brut",
+    "wikipediaUrl": "Outsider_art",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WolfiBandHainLarge.jpg/229px-WolfiBandHainLarge.jpg",
+    "description": "Art created outside the boundaries of official culture by those untrained in the arts",
+    "group": "Modern Art"
+  },
+  {
+    "id": 396,
+    "title": "Art Deco",
+    "url": "art-deco",
+    "wikipediaUrl": "Art_Deco",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chrysler_Building_1_%284684845155%29.jpg/206px-Chrysler_Building_1_%284684845155%29.jpg",
+    "description": "Influential visual arts design style which first appeared in France during the 1920s",
+    "group": "Modern Art"
+  },
+  {
+    "id": 7017,
+    "title": "Art Nouveau (Modern)",
+    "url": "art-nouveau-modern",
+    "wikipediaUrl": "Art_Nouveau",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tassel_House_stairway.JPG/320px-Tassel_House_stairway.JPG",
+    "description": "Style of art and architecture about 1890 to 1911",
+    "group": "Modern Art"
+  },
+  {
+    "id": 2298,
+    "title": "Automatic Painting",
+    "url": "automatic-painting",
+    "wikipediaUrl": "Surrealist_automatism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Masson_automatic_drawing.jpg/284px-Masson_automatic_drawing.jpg",
+    "description": "Method of art-making in which the artist suppresses conscious control over the making process",
+    "group": "Modern Art"
+  },
+  {
+    "id": 400,
+    "title": "Baroque",
+    "url": "baroque",
+    "wikipediaUrl": "Baroque",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WLA_metmuseum_Venus_and_Adonis_by_Peter_Paul_Rubens.jpg/320px-WLA_metmuseum_Venus_and_Adonis_by_Peter_Paul_Rubens.jpg",
+    "description": "Cultural movement, starting around 1600",
+    "group": "Post Renaissance Art"
+  },
+  {
+    "id": 14563,
+    "title": "Biedermeier",
+    "url": "biedermeier",
+    "wikipediaUrl": "Biedermeier",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chrzanow_15.jpg/320px-Chrzanow_15.jpg",
+    "description": "A Center Eurpoe movement in which arts appealed to common sensibilities",
+    "group": "Post Renaissance Art"
+  },
+  {
+    "id": 401,
+    "title": "Byzantine",
+    "url": "byzantine",
+    "wikipediaUrl": "Byzantine_art",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg/303px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg",
+    "description": "Art of the Byzantine (Eastern Roman) Empire",
+    "group": "Medieval Art"
+  },
+  {
+    "id": 15902,
+    "title": "Cartographic Art",
+    "url": "cartographic-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": "Modern Art"
+  },
+  {
+    "id": 15214,
+    "title": "Classicism",
+    "url": "classicism",
+    "wikipediaUrl": "Classicism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/David-Oath_of_the_Horatii-1784.jpg/320px-David-Oath_of_the_Horatii-1784.jpg",
+    "description": "An aesthetic attitude dependent on principles based in the culture, art and literature of ancient Greece and Rome",
+    "group": "Post Renaissance Art"
+  },
+  {
+    "id": 405,
+    "title": "Color Field Painting",
+    "url": "color-field-painting",
+    "wikipediaUrl": "Color_field",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/%27Beginning%27%2C_magna_on_canvas_painting_by_Kenneth_Noland%2C_Hirshhorn_Museum_and_Sculpture_Garden%2C_1958..jpg",
+    "description": "A style of abstract painting that emerged in New York City during the 1940s and 1950s",
+    "group": "Modern Art"
+  },
+  {
+    "id": 720,
+    "title": "Conceptual Art",
+    "url": "conceptual-art",
+    "wikipediaUrl": "Conceptual_art",
+    "thumbnailUrl": "https://uploads5.wikiart.org/images/gerhard-richter/180-colors.jpg!PortraitSmall.jpg",
+    "description": "Art in which the concept(s) or idea(s) involved in the work take precedence over traditional aesthetic, technical, and material concerns",
+    "group": "Contemporary Art"
+  },
+  {
+    "id": 12447,
+    "title": "Confessional Art",
+    "url": "confessional-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 407,
+    "title": "Constructivism",
+    "url": "constructivism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 409,
+    "title": "Contemporary Realism",
+    "url": "contemporary-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16620,
+    "title": "Costumbrismo",
+    "url": "costumbrismo",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 410,
+    "title": "Cubism",
+    "url": "cubism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 2536,
+    "title": "Cubo-Expressionism",
+    "url": "cubo-expressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 411,
+    "title": "Cubo-Futurism",
+    "url": "cubo-futurism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 15899,
+    "title": "Cyber Art",
+    "url": "cyber-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 412,
+    "title": "Dada",
+    "url": "dada",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 14640,
+    "title": "Divisionism",
+    "url": "divisionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 414,
+    "title": "Early Christian",
+    "url": "early-christian",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16440,
+    "title": "Environmental (Land) Art",
+    "url": "environmental-land-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 416,
+    "title": "Existential Art",
+    "url": "existential-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 417,
+    "title": "Expressionism",
+    "url": "expressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 2448,
+    "title": "Fantastic Realism",
+    "url": "fantastic-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 418,
+    "title": "Fauvism",
+    "url": "fauvism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15890,
+    "title": "Feminist Art",
+    "url": "feminist-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16642,
+    "title": "Fiber art",
+    "url": "fiber-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 419,
+    "title": "Futurism",
+    "url": "futurism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16542,
+    "title": "Gongbi",
+    "url": "gongbi",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 420,
+    "title": "Gothic",
+    "url": "gothic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 421,
+    "title": "Graffiti Art",
+    "url": "graffiti-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 422,
+    "title": "Hard Edge Painting",
+    "url": "hard-edge-painting",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 423,
+    "title": "High Renaissance",
+    "url": "high-renaissance",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16494,
+    "title": "Hyper-Mannerism (Anachronism)",
+    "url": "hyper-mannerism-anachronism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16433,
+    "title": "Hyper-Realism",
+    "url": "hyper-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16464,
+    "title": "Ilkhanid",
+    "url": "ilkhanid",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 424,
+    "title": "Impressionism",
+    "url": "impressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 12082,
+    "title": "Indian Space painting",
+    "url": "indian-space-painting",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 9634,
+    "title": "Ink and wash painting",
+    "url": "ink-and-wash-painting",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 12805,
+    "title": "International Gothic",
+    "url": "international-gothic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 425,
+    "title": "Intimism",
+    "url": "intimism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 426,
+    "title": "Japonism",
+    "url": "japonism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16651,
+    "title": "Joseon Dynasty",
+    "url": "joseon-dynasty",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16446,
+    "title": "Junk Art",
+    "url": "junk-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 11477,
+    "title": "Kinetic Art",
+    "url": "kinetic-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 9194,
+    "title": "Kitsch",
+    "url": "kitsch",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15876,
+    "title": "Lettrism",
+    "url": "lettrism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15895,
+    "title": "Light and Space",
+    "url": "light-and-space",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 428,
+    "title": "Lowbrow Art",
+    "url": "lowbrow-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 429,
+    "title": "Luminism",
+    "url": "luminism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15916,
+    "title": "Lyrical Abstraction",
+    "url": "lyrical-abstraction",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 430,
+    "title": "Magic Realism",
+    "url": "magic-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15900,
+    "title": "Mail Art",
+    "url": "mail-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 7232,
+    "title": "Mannerism (Late Renaissance)",
+    "url": "mannerism-late-renaissance",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15897,
+    "title": "Maximalism",
+    "url": "maximalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 9063,
+    "title": "Mechanistic Cubism",
+    "url": "mechanistic-cubism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 432,
+    "title": "Metaphysical art",
+    "url": "metaphysical-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 433,
+    "title": "Minimalism",
+    "url": "minimalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16623,
+    "title": "Miserablism",
+    "url": "miserablism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15879,
+    "title": "Modernismo",
+    "url": "modernismo",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16468,
+    "title": "Mughal",
+    "url": "mughal",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 436,
+    "title": "Muralism",
+    "url": "muralism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 437,
+    "title": "Naïve Art (Primitivism)",
+    "url": "na-ve-art-primitivism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16538,
+    "title": "Nanga (Bunjinga)",
+    "url": "nanga-bunjinga",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16555,
+    "title": "Nas-Taliq",
+    "url": "nas-taliq",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 438,
+    "title": "Naturalism",
+    "url": "naturalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 2771,
+    "title": "Neo-baroque",
+    "url": "neo-baroque",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 439,
+    "title": "Neoclassicism",
+    "url": "neoclassicism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15881,
+    "title": "Neo-Concretism",
+    "url": "neo-concretism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 440,
+    "title": "Neo-Dada",
+    "url": "neo-dada",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 441,
+    "title": "Neo-Expressionism",
+    "url": "neo-expressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15620,
+    "title": "Neo-Figurative Art",
+    "url": "neo-figurative-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 443,
+    "title": "Neo-Geo",
+    "url": "neo-geo",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 444,
+    "title": "Neo-Minimalism",
+    "url": "neo-minimalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 446,
+    "title": "Neo-Pop Art",
+    "url": "neo-pop-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 13855,
+    "title": "Neo-Rococo",
+    "url": "neo-rococo",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 12772,
+    "title": "New European Painting",
+    "url": "new-european-painting",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 16566,
+    "title": "Nihonga",
+    "url": "nihonga",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 449,
+    "title": "Northern Renaissance",
+    "url": "northern-renaissance",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 450,
+    "title": "Nouveau Réalisme",
+    "url": "nouveau-r-alisme",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 451,
+    "title": "Op Art",
+    "url": "op-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 452,
+    "title": "Orientalism",
+    "url": "orientalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 453,
+    "title": "Orphism",
+    "url": "orphism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16548,
+    "title": "Ottoman Period",
+    "url": "ottoman-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 454,
+    "title": "Outsider art",
+    "url": "outsider-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+
+  },
+  {
+    "id": 15875,
+    "title": "P&D (Pattern and Decoration)",
+    "url": "p-d-pattern-and-decoration",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16630,
+    "title": "Perceptism",
+    "url": "perceptism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 455,
+    "title": "Photorealism",
+    "url": "photorealism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16625,
+    "title": "Pictorialism",
+    "url": "pictorialism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 456,
+    "title": "Pointillism",
+    "url": "pointillism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 457,
+    "title": "Pop Art",
+    "url": "pop-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 15028,
+    "title": "Poster Art Realism",
+    "url": "poster-art-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 458,
+    "title": "Post-Impressionism",
+    "url": "post-impressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16531,
+    "title": "Post-Minimalism",
+    "url": "post-minimalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 15821,
+    "title": "Post-Painterly Abstraction",
+    "url": "post-painterly-abstraction",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 460,
+    "title": "Pre-Romanesque",
+    "url": "pre-romanesque",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 462,
+    "title": "Proto Renaissance",
+    "url": "proto-renaissance",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 463,
+    "title": "Purism",
+    "url": "purism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 464,
+    "title": "Rayonism",
+    "url": "rayonism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 465,
+    "title": "Realism",
+    "url": "realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 466,
+    "title": "Regionalism",
+    "url": "regionalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 467,
+    "title": "Renaissance",
+    "url": "renaissance",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 468,
+    "title": "Rococo",
+    "url": "rococo",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 469,
+    "title": "Romanesque",
+    "url": "romanesque",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 470,
+    "title": "Romanticism",
+    "url": "romanticism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16552,
+    "title": "Safavid Period",
+    "url": "safavid-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16249,
+    "title": "Shin-hanga",
+    "url": "shin-hanga",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16621,
+    "title": "Sky Art",
+    "url": "sky-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 473,
+    "title": "Social Realism",
+    "url": "social-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 474,
+    "title": "Socialist Realism",
+    "url": "socialist-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 15779,
+    "title": "Sōsaku hanga",
+    "url": "s-saku-hanga",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 476,
+    "title": "Spatialism",
+    "url": "spatialism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 12553,
+    "title": "Spectralism",
+    "url": "spectralism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 477,
+    "title": "Street art",
+    "url": "street-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 478,
+    "title": "Stuckism",
+    "url": "stuckism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 480,
+    "title": "Suprematism",
+    "url": "suprematism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 482,
+    "title": "Symbolism",
+    "url": "symbolism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 483,
+    "title": "Synchromism",
+    "url": "synchromism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 484,
+    "title": "Synthetic Cubism",
+    "url": "synthetic-cubism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 485,
+    "title": "Synthetism",
+    "url": "synthetism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 486,
+    "title": "Tachisme",
+    "url": "tachisme",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 6721,
+    "title": "Tenebrism",
+    "url": "tenebrism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16553,
+    "title": "Timurid Period",
+    "url": "timurid-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 487,
+    "title": "Tonalism",
+    "url": "tonalism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 488,
+    "title": "Toyism",
+    "url": "toyism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 489,
+    "title": "Transavantgarde",
+    "url": "transavantgarde",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 2897,
+    "title": "Tubism",
+    "url": "tubism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 491,
+    "title": "Ukiyo-e",
+    "url": "ukiyo-e",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 8959,
+    "title": "Verism",
+    "url": "verism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16527,
+    "title": "Yamato-e",
+    "url": "yamato-e",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16557,
+    "title": "Zen",
+    "url": "zen",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16671,
+    "title": "Figurative Expressionism",
+    "url": "figurative-expressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16681,
+    "title": "Street Photography",
+    "url": "street-photography",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16686,
+    "title": "Native Art",
+    "url": "native-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16695,
+    "title": "Superflat",
+    "url": "superflat",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16703,
+    "title": "Neo-Orthodoxism",
+    "url": "neo-orthodoxism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16706,
+    "title": "New Casualism",
+    "url": "new-casualism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16731,
+    "title": "Mozarabic",
+    "url": "mozarabic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Art Singulier",
+    "url": "art-singulier",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Neo-Suprematism",
+    "url": "neo-suprematism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Digital Art",
+    "url": "digital-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Severe Style",
+    "url": "severe-style",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Symbiotic Art",
+    "url": "symbiotic-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Excessivism",
+    "url": "excessivism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Performance Art",
+    "url": "performance-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Sumi-e (Suiboku-ga)",
+    "url": "suiboku-ga-0",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Kanō school style",
+    "url": "kano-school",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Formlosigkeit",
+    "url": "formlosigkeit-1",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Site-specific art",
+    "url": "site-specific-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Neosurrealismo",
+    "url": "neosurrealismo",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "modernism",
+    "url": "modernism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Neo-surrealism",
+    "url": "neo-surrealism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Abstr",
+    "url": "abstr",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Ký họa",
+    "url": "ky-hoa",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Ero guro",
+    "url": "ero-guro-14",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Fantasy Art",
+    "url": "fantasy-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Contemporary",
+    "url": "contemporary",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Sots Art",
+    "url": "sots-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Archaic",
+    "url": "archaic-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Classical",
+    "url": "classical-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Hellenistic",
+    "url": "hellenistic-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Early Byzantine (c. 330–750)",
+    "url": "early-byzantine-c-330-750",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Middle Byzantine (c. 850–1204)",
+    "url": "middle-byzantine-c-850-1204",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Late Byzantine/Palaeologan Renaissance (c. 1261–1453)",
+    "url": "late-byzantine-c-1261-1453",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Macedonian Renaissance (867–1056)",
+    "url": "macedonian-renaissance-867-1056",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "New Medievialism",
+    "url": "new-medievialism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 459,
+    "title": "Precisionism",
+    "url": "precisionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 2449,
+    "title": "Transautomatism",
+    "url": "transautomatism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Viking art",
+    "url": "viking-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Geometric",
+    "url": "geometric-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Predynastic",
+    "url": "predynastic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Early Dynastic",
+    "url": "early-dynastic-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Old Kingdom",
+    "url": "old-kingdom",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Middle Kingdom",
+    "url": "middle-kingdom",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "New Kingdom",
+    "url": "new-kingdom",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Amarna",
+    "url": "amarna",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Late Period",
+    "url": "late-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Ptolemaic",
+    "url": "ptolemaic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "3rd Intermediate Period",
+    "url": "3rd-intermediate-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 402,
+    "title": "Celtic",
+    "url": "celtic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 16735,
+    "title": "Mosan art",
+    "url": "mosan-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 481,
+    "title": "Surrealism",
+    "url": "surrealism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 404,
+    "title": "Cloisonnism",
+    "url": "cloisonnism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 447,
+    "title": "Neo-Romanticism",
+    "url": "neo-romanticism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 397,
+    "title": "Art Informel",
+    "url": "art-informel",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 15907,
+    "title": "Neo-Byzantine",
+    "url": "neo-byzantine",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 887,
+    "title": "Neoplasticism",
+    "url": "neoplasticism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 15880,
+    "title": "Concretism",
+    "url": "concretism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 448,
+    "title": "New Realism",
+    "url": "new-realism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "figuative",
+    "url": "figuative",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "2nd Intermediate Period",
+    "url": "2nd-intermediate-period",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Formlosigkeit",
+    "url": "formlosigkeit",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Formlösigkeit",
+    "url": "formlosigkeit-0",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Бесформизм",
+    "url": "besformizm",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 415,
+    "title": "Early Renaissance",
+    "url": "early-renaissance",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "New Realism Romantic",
+    "url": "new-realism-romantic",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Neo Ex",
+    "url": "neo-ex",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Neo Epressionism",
+    "url": "neo-epressionism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Po",
+    "url": "po",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Post Impressionism",
+    "url": "post-impressionism-0",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Abstract Expresionism Suprarealism",
+    "url": "abstract-expresionism-suprarealism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Impressionism ,Symbolism",
+    "url": "impressionism-symbolism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Abstract",
+    "url": "abstract",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Abstract Expressionism Suprarealism",
+    "url": "abstract-expressionism-suprarealism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "instalación",
+    "url": "instalacion",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "fart",
+    "url": "fart",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Advertising art",
+    "url": "advertising-art",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Idealism",
+    "url": "idealism",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "Sci-Fi",
+    "url": "sci-fi",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  },
+  {
+    "id": 0,
+    "title": "arte conceptual",
+    "url": "arte-conceptual-0",
+    "wikipediaUrl": "",
+    "thumbnailUrl": "",
+    "description": "",
+    "group": ""
+  }
+]

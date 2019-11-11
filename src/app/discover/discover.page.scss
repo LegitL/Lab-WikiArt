@@ -1,0 +1,13 @@
+.main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  ion-avatar {
+    margin: 0 0 3rem 0;
+    height: 12rem;
+    width: 12rem;
+  }
+}

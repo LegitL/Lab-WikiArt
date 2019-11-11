@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/"></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{ style?.title }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-header class="ion-padding">
+    <ion-img [src]="style ? style.thumbnailUrl : ''"></ion-img>
+    <p>{{ style?.description }}</p>
+  </ion-header>
+  <ion-virtual-scroll [items]="paintings" approxItemHeight="100px">
+    <ion-item *virtualItem="let painting">
+      <ion-thumbnail class="large" slot="start">
+        <ion-img [src]="painting.image + '!PortraitSmall.jpg'"></ion-img>
+      </ion-thumbnail>
+      <ion-label class="ion-text-wrap">
+        <h3>{{ painting.title }}</h3>
+        <p>{{ painting.artistName }} - {{ painting.year}}</p>
+      </ion-label>
+    </ion-item>
+  </ion-virtual-scroll>
+</ion-content>
+  

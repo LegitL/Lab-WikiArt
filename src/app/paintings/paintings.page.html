@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      {{ title }}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let painting of paintings" tappable (click)="openPainting(painting)">
+      <ion-thumbnail slot="start">
+        <ion-img [src]="filterImageUrl(painting.image)"></ion-img>
+      </ion-thumbnail>
+      <ion-label>
+        <h3>{{ painting.title }}</h3>
+        <p>{{ painting.artistName }}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>
