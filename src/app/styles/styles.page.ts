@@ -24,7 +24,6 @@ export class StylesPage implements OnInit {
   public onSearchTerm(event: any): void {
     this.styles = this.allStyles;
     const val = event.detail.value;
-    console.log(val);
     this.styles = this.allStyles.filter(term => {
       return term.title.toLowerCase().indexOf(val.trim().toLowerCase()) > -1;
     });

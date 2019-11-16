@@ -30,12 +30,16 @@ const routes: Routes = [
     loadChildren: () => import('./artists/artists.module').then(m => m.ArtistsPageModule)
   },
   {
-    path: 'about',
-    loadChildren: () => import('./about/about.module').then(m => m.AboutPageModule)
+    path: 'artist-details/:slug',
+    loadChildren: () => import('./artist-details/artist-details.module').then(m => m.ArtistDetailsPageModule)
   },
   {
     path: 'painting',
     loadChildren: () => import('./painting/painting.module').then(m => m.PaintingPageModule)
+  },
+  {
+    path: 'about',
+    loadChildren: () => import('./about/about.module').then(m => m.AboutPageModule)
   },
 ];
 

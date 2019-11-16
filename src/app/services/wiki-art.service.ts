@@ -8,6 +8,8 @@ const dictionariesUrl = `${baseUrl}/App/wiki/DictionariesJson/`;
 const mostViewedPaintingsUrl = `${baseUrl}/App/Painting/MostViewedPaintings?json=2&inPublicDomain=true`;
 const artistsUrl = `${baseUrl}/App/Artist/AlphabetJson?v=new`;
 const paintingsByStyleUrl = `${baseUrl}/paintings-by-style`;
+const paintingsByArtistUrl = `${baseUrl}/App/Painting/PaintingsByArtist`;
+const paintingUrl = `${baseUrl}/App/Painting/ImageJson/`;
 
 @Injectable({
   providedIn: 'root'
@@ -42,6 +44,18 @@ export class WikiArtService {
 
   public artists() {
     return this.httpClient.get<any[]>(artistsUrl);
+  }
+
+  public artist(slug: string) {
+    return this.httpClient.get<any[]>(`${baseUrl}/${slug}?json=2`);
+  }
+
+  public artistPaintings(slug: string, page: number = 1): Observable<any> {
+    return this.httpClient.get<any>(`${paintingsByArtistUrl}?artistUrl=${slug}&json=2`);
+  }
+
+  public painting(id: string): Observable<any> {
+    return this.httpClient.get<any>(`${paintingUrl}/${id}`);
   }
 }
 
