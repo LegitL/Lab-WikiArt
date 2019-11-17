@@ -24,14 +24,13 @@ export class ArtistsPage implements OnInit {
   public onSearchTerm(event: any): void {
     this.artists = this.allArtists;
     const val = event.detail.value;
-    console.log(val);
     this.artists = this.allArtists.filter(term => {
       return term.artistName.toLowerCase().indexOf(val.trim().toLowerCase()) > -1;
     });
   }
 
-  public filterImageUrl(url: string): string {
-    return url
+  public smallImageUrl(url: string): string {
+    return url.toLowerCase()
       .replace(/jpg\!.*$/, 'jpg!PortraitSmall.jpg')
       .replace(/png\!.*$/, 'png!PortraitSmall.png');
   }

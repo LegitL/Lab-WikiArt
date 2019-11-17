@@ -1,7 +1,8 @@
-import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { ActivatedRoute, Router, NavigationExtras } from '@angular/router';
+import { IonInfiniteScroll } from '@ionic/angular';
 import { WikiArtService } from '../services/wiki-art.service';
-import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
+import { WikipediaService } from '../services/wikipedia.service';
 
 @Component({
   selector: 'app-style-details',
@@ -9,29 +10,57 @@ import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
   styleUrls: ['./style-details.page.scss'],
 })
 export class StyleDetailsPage implements OnInit {
+  @ViewChild(IonInfiniteScroll, { static: true }) infiniteScroll: IonInfiniteScroll;
+
+  styleSlug: string;
   style: any;
-  paintings: any;
+  wikipediaPageSummary: any;
+  paintings: any[];
   paintingsCount: 0;
-  pageSize = 0;
   currentPage = 1;
 
   constructor(
+    private router: Router,
     private activatedRoute: ActivatedRoute,
     private wikiArtService: WikiArtService,
+    private wikipediaService: WikipediaService,
   ) { }
 
-  ngOnInit() {
-    const styleSlug = this.activatedRoute.snapshot.paramMap.get('slug');
-    if (styleSlug) {
-      this.wikiArtService.style(styleSlug).subscribe(style => {
+  public ngOnInit(): void {
+    this.styleSlug = this.activatedRoute.snapshot.paramMap.get('slug');
+    if (this.styleSlug) {
+      this.wikiArtService.style(this.styleSlug).subscribe(style => {
         this.style = style;
+        this.wikipediaService.pageSummary(this.style.wikipediaUrl).subscribe(pageSummary => {
+          this.wikipediaPageSummary = pageSummary;
+        });
       });
-      this.wikiArtService.stylePaintings(styleSlug, this.currentPage++).subscribe(data => {
+      this.wikiArtService.stylePaintings(this.styleSlug, this.currentPage++).subscribe(data => {
         this.paintings = data.Paintings;
         this.paintingsCount = data.AllPaintingsCount;
-        this.pageSize = data.PageSize;
       });
     }
   }
 
+  public smallImageUrl(url: string): string {
+    return url.toLowerCase()
+      .replace(/jpg\!.*$/, 'jpg!PortraitSmall.jpg')
+      .replace(/png\!.*$/, 'png!PortraitSmall.png');
+  }
+
+  public loadMorePaintings(event): void {
+    if (this.paintingsCount > this.paintings.length) {
+      this.wikiArtService.stylePaintings(this.styleSlug, this.currentPage++).subscribe(data => {
+        this.paintings = [].concat(this.paintings).concat(data.Paintings);
+        event.target.complete();
+      });
+    } else {
+      this.infiniteScroll.disabled = true;
+    }
+  }
+
+  public showPainting(painting: any): void {
+    const extras: NavigationExtras = { state: { painting} }
+    this.router.navigateByUrl('/painting', extras);
+  }
 }
