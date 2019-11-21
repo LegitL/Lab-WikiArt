@@ -57,6 +57,38 @@ export class WikiArtService {
   public painting(id: string): Observable<any> {
     return this.httpClient.get<any>(`${paintingUrl}/${id}`);
   }
+
+  public fullImageUrl(url: string): string {
+    let newUrl = '';
+
+    if (url) {
+      newUrl = url.toLowerCase()
+      .replace(/jpg\!.*$/, 'jpg')
+      .replace(/png\!.*$/, 'png');
+
+      if (newUrl.includes('/frame-') || newUrl.includes('/artist-')) {
+        newUrl = 'assets/images/artist.png';
+      }
+    }
+
+    return newUrl;
+  }
+
+  public smallImageUrl(url: string): string {
+    let newUrl = '';
+
+    if (url) {
+      newUrl =  url.toLowerCase()
+        .replace(/jpg\!.*$/, 'jpg!PortraitSmall.jpg')
+        .replace(/png\!.*$/, 'png!PortraitSmall.png');
+
+      if (newUrl.includes('/frame-') || newUrl.includes('/artist-')) {
+        newUrl = 'assets/images/artist-thumbnail.png';
+      }
+    }
+
+    return newUrl;
+  }
 }
 
 export enum Groups {

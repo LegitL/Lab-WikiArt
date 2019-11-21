@@ -34,6 +34,7 @@ export class ArtistDetailsPage implements OnInit {
     if (this.artistSlug) {
       this.wikiArtService.artist(this.artistSlug).subscribe(artist => {
         this.artist = artist;
+        console.log(this.artist);
         this.wikipediaUrl = this.artist.wikipediaUrl;
         const wikipediaSlug = decodeURI(this.wikipediaUrl.replace('http://en.wikipedia.org/wiki/', ''));
         this.wikipediaService.pageSummary(wikipediaSlug).subscribe(pageSummary => {
@@ -47,16 +48,11 @@ export class ArtistDetailsPage implements OnInit {
   }
 
   public fullImageUrl(url: string): string {
-    return url.toLowerCase()
-      .replace(/jpg\!.*$/, 'jpg')
-      .replace(/png\!.*$/, 'png');
+    return this.wikiArtService.fullImageUrl(url);
   }
 
-
   public smallImageUrl(url: string): string {
-    return url.toLowerCase()
-      .replace(/jpg\!.*$/, 'jpg!PortraitSmall.jpg')
-      .replace(/png\!.*$/, 'png!PortraitSmall.png');
+    return this.wikiArtService.smallImageUrl(url);
   }
 
   public showPainting(painting: any): void {

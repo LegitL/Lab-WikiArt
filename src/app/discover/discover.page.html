@@ -9,9 +9,10 @@
 
 <ion-content>
   <div class="main">
-    <ion-avatar>
-      <ion-img [src]="paintingOfTheDay?.image"></ion-img>
+    <ion-avatar tappable (click)="showPainting(paintingOfTheDay)" *ngIf="!loading">
+      <ion-img [src]="smallImageUrl(paintingOfTheDay?.image)"></ion-img>
     </ion-avatar>
+    <ion-spinner *ngIf="loading"></ion-spinner>
     <ion-button routerLink="styles">Styles</ion-button>
     <ion-button routerLink="artists">Artists</ion-button>
   </div>

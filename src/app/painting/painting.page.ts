@@ -1,8 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router, NavigationStart } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
+import { map } from 'rxjs/operators';
 import { WikiArtService } from '../services/wiki-art.service';
-import { WikipediaService } from '../services/wikipedia.service';
-import { filter } from 'rxjs/operators';
+
+
+const IMAGE_PATTERN = 'wikiart.org/images/';
 
 @Component({
   selector: 'app-painting',
@@ -14,21 +16,31 @@ export class PaintingPage implements OnInit {
   painting: any;
 
   constructor(
-    private router: Router,
-    private wikiArtService: WikiArtService,
-    private wikipediaService: WikipediaService,
+    private activatedRoute: ActivatedRoute,
+    private wikiArtService: WikiArtService
   ) { }
 
   public ngOnInit(): void {
-    const extras = this.router.getCurrentNavigation().extras;
-    if (extras && extras.state) {
-      this.painting = this.router.getCurrentNavigation().extras.state.painting;
+    this.activatedRoute.paramMap.pipe(map(() => window.history.state)).subscribe(state => {
+      this.painting = state.painting;
+    });
+  }
+
+  public getArtistSlug(): string {
+    if (this.painting) {
+      if (this.painting.artistUrl) {
+        return this.painting.artistUrl.substr(4);
+      } else {
+        let s: string = this.painting.image;
+        s = s.substr(s.lastIndexOf(IMAGE_PATTERN) + IMAGE_PATTERN.length);
+        s = s.substring(0, s.indexOf('/'));
+        return s;
+      }
     }
+    return '';
   }
 
   public fullImageUrl(url: string): string {
-    return url.toLowerCase()
-      .replace(/jpg\!.*$/, 'jpg')
-      .replace(/png\!.*$/, 'png');
+    return this.wikiArtService.fullImageUrl(url);
   }
 }
