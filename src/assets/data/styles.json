@@ -186,7 +186,7 @@
     "wikipediaUrl": "Contemporary_Realism",
     "thumbnailUrl": "https://uploads0.wikiart.org/00210/images/ivan-eyre/black-dial-painting-ivan-eyre-1.jpg!PortraitSmall.jpg",
     "description": "The contemporary realism movement is a North American style of painting which came into existence c. 1960s and early 1970s.",
-    "group": "Contemporary"
+    "group": "Contemporary Art"
   },
   {
     "id": 16620,
@@ -651,10 +651,10 @@
     "id": 15879,
     "title": "Modernismo",
     "url": "modernismo",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Modernismo",
+    "thumbnailUrl": "https://uploads2.wikiart.org/00208/images/jose-guadalupe-posada/alcoholic-calavera-1888.jpg!PortraitSmall.jpg",
+    "description": "A Spanish-American literary and art movement",
+    "group": "Modern Art"
 
   },
   {
@@ -811,77 +811,77 @@
     "id": 13855,
     "title": "Neo-Rococo",
     "url": "neo-rococo",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Rococo_Revival",
+    "thumbnailUrl": "https://uploads6.wikiart.org/images/franz-xaver-winterhalter/victoria-princess-royal-1842.jpg!PortraitSmall.jpg",
+    "description": "The Neo-Rococo or Rococo Revival style emerged in Second Empire France.",
+    "group": "Post Renaissance Art"
 
   },
   {
     "id": 12772,
     "title": "New European Painting",
     "url": "new-european-painting",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "New_European_Painting",
+    "thumbnailUrl": "https://uploads2.wikiart.org/images/gerhard-richter/17-3-92.jpg!PortraitSmall.jpg",
+    "description": "Emerged in the 1980s and reached a critical point of major distinction in the 1990s.",
+    "group": "Contemporary Art"
 
   },
   {
     "id": 16566,
     "title": "Nihonga",
     "url": "nihonga",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Nihonga",
+    "thumbnailUrl": "https://uploads5.wikiart.org/00140/images/uemura-shoen/tumblr-nmjvm0rels1uss1yso1-500.png!PortraitSmall.png",
+    "description": "Paintings made in accordance with traditional Japanese artistic conventions.",
+    "group": "Japanese Art"
 
   },
   {
     "id": 449,
     "title": "Northern Renaissance",
     "url": "northern-renaissance",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Northern_Renaissance",
+    "thumbnailUrl": "https://uploads4.wikiart.org/images/robert-campin/the-crucified-thief.jpg!PortraitSmall.jpg",
+    "description": "Renaissance that occurred in the European countries north of the Alps.",
+    "group": "Renaissance Art"
 
   },
   {
     "id": 450,
     "title": "Nouveau Réalisme",
     "url": "nouveau-r-alisme",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Nouveau_réalisme",
+    "thumbnailUrl": "https://uploads5.wikiart.org/00152/images/leonetto-cappiello/cappiello-jacquelin-le-rire-1903.jpg!PortraitSmall.jpg",
+    "description": "An artistic movement founded in 1960 by the art critic Pierre Restany and the painter Yves Klein.",
+    "group": "Modern Art"
   },
   {
     "id": 451,
     "title": "Op Art",
     "url": "op-art",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Op_art",
+    "thumbnailUrl": "https://uploads2.wikiart.org/images/m-c-escher/eight-heads.jpg!PortraitSmall.jpg",
+    "description": "A style of visual art that uses optical illusions.",
+    "group": "Modern Art"
   },
   {
     "id": 452,
     "title": "Orientalism",
     "url": "orientalism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Orientalism",
+    "thumbnailUrl": "https://uploads0.wikiart.org/00118/images/antoine-jean-gros/the-horse-of-mustapha-pasha-1810.jpg!PortraitSmall.jpg",
+    "description": "Imitation or depiction of Eastern culture.",
+    "group": "Post Renaissance Art"
   },
   {
     "id": 453,
     "title": "Orphism",
     "url": "orphism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Orphism_(art)",
+    "thumbnailUrl": "https://uploads7.wikiart.org/00116/images/robert-delaunay/eiffel-tower-1.jpg!PortraitSmall.jpg",
+    "description": "An offshoot of Cubism that focused on pure abstraction and bright colors.",
+    "group": "Modern Art"
   },
   {
     "id": 16548,
@@ -897,20 +897,20 @@
     "id": 454,
     "title": "Outsider art",
     "url": "outsider-art",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Outsider_art",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WolfiBandHainLarge.jpg/229px-WolfiBandHainLarge.jpg",
+    "description": "Art created outside the boundaries of official culture by those untrained in the arts.",
+    "group": "Modern Art"
 
   },
   {
     "id": 15875,
     "title": "P&D (Pattern and Decoration)",
     "url": "p-d-pattern-and-decoration",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Pattern_and_Decoration",
+    "thumbnailUrl": "https://uploads3.wikiart.org/images/joyce-kozloff/buffalo-dance-1973.jpg!PortraitSmall.jpg",
+    "description": "A United States art movement from the mid-1970s to the early 1980s.",
+    "group": "Contemporary Art"
   },
   {
     "id": 16630,
@@ -925,37 +925,37 @@
     "id": 455,
     "title": "Photorealism",
     "url": "photorealism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Photorealism",
+    "thumbnailUrl": "https://uploads6.wikiart.org/images/audrey-flack/rich-art-1973.jpg!PortraitSmall.jpg",
+    "description": "A genre of art where an artist attempts to produce an image as realistically as possible.",
+    "group": "Contemporary Art"
   },
   {
     "id": 16625,
     "title": "Pictorialism",
     "url": "pictorialism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Pictorialism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Seeley-Black_Bowl.jpg/237px-George_Seeley-Black_Bowl.jpg",
+    "description": "A style in which the photographer has somehow manipulated what would otherwise be a straightforward photograph.",
+    "group": "Modern Art"
   },
   {
     "id": 456,
     "title": "Pointillism",
     "url": "pointillism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Pointillism",
+    "thumbnailUrl": "https://uploads7.wikiart.org/images/camille-pissarro/peasant-girl-drinking-her-coffee-1881.jpg!PortraitSmall.jpg",
+    "description": "A technique of painting with small, distinct dots.",
+    "group": "Modern Art"
   },
   {
     "id": 457,
     "title": "Pop Art",
     "url": "pop-art",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Pop_art",
+    "thumbnailUrl": "https://uploads8.wikiart.org/images/eduardo-paolozzi/meet-the-people-1948.jpg!PortraitSmall.jpg",
+    "description": "Fine art including imagery from popular and mass culture.",
+    "group": "Modern Art"
   },
   {
     "id": 15028,
@@ -970,28 +970,28 @@
     "id": 458,
     "title": "Post-Impressionism",
     "url": "post-impressionism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Post-Impressionism",
+    "thumbnailUrl": "https://uploads1.wikiart.org/images/louis-comfort-tiffany/landscape-with-figure-1870.jpg!PortraitSmall.jpg",
+    "description": "Predominantly French art movement that developed roughly between 1886 and 1905.",
+    "group": "Modern Art"
   },
   {
     "id": 16531,
     "title": "Post-Minimalism",
     "url": "post-minimalism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Postminimalism",
+    "thumbnailUrl": "https://uploads8.wikiart.org/images/lenore-tawney/bound-man-1957.jpg!PortraitSmall.jpg",
+    "description": "Art movement influenced by, or attempts to go beyond, the aesthetic of minimalism",
+    "group": "Contemporary Art"
   },
   {
     "id": 15821,
     "title": "Post-Painterly Abstraction",
     "url": "post-painterly-abstraction",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Post-painterly_abstraction",
+    "thumbnailUrl": "https://uploads1.wikiart.org/images/patrick-heron/red-and-yellow-image-1958.jpg!PortraitSmall.jpg",
+    "description": "A term created by art critic Clement Greenberg as the title for an exhibit he curated.",
+    "group": "Modern Art"
   },
   {
     "id": 460,
@@ -1015,91 +1015,91 @@
     "id": 463,
     "title": "Purism",
     "url": "purism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Purism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Le_Corbusier_%28Charles_Edouard_Jeanneret%29%2C_1922%2C_Nature_morte_verticale_%28Vertical_Still_Life%29%2C_oil_on_canvas%2C_146.3_x_89.3_cm%2C_Kunstmuseum%2C_Basel.jpg/193px-Le_Corbusier_%28Charles_Edouard_Jeanneret%29%2C_1922%2C_Nature_morte_verticale_%28Vertical_Still_Life%29%2C_oil_on_canvas%2C_146.3_x_89.3_cm%2C_Kunstmuseum%2C_Basel.jpg",
+    "description": "A french movement that took place between 1918 and 1925.",
+    "group": "Modern Art"
   },
   {
     "id": 464,
     "title": "Rayonism",
     "url": "rayonism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Rayonism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Larionov_red_rayonism.jpg/320px-Larionov_red_rayonism.jpg",
+    "description": "A style of abstract art that developed in Russia in 1911",
+    "group": "Modern Art"
   },
   {
     "id": 465,
     "title": "Realism",
     "url": "realism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Realism_(arts)",
+    "thumbnailUrl": "https://uploads4.wikiart.org/00129/images/jean-baptiste-simeon-chardin/jean-baptiste-sime-on-chardin-017.jpg!PortraitSmall.jpg",
+    "description": "Artistic style of representing subjects realistically.",
+    "group": "Post Renaissance Art"
   },
   {
     "id": 466,
     "title": "Regionalism",
     "url": "regionalism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Regionalism_(art)",
+    "thumbnailUrl": "https://uploads0.wikiart.org/images/norman-rockwell/scouting-with-daniel-boone-1914.jpg!PortraitSmall.jpg",
+    "description": "An American realist modern art movement that included paintings, murals and lithographs.",
+    "group": "Modern Art"
   },
   {
     "id": 467,
     "title": "Renaissance",
     "url": "renaissance",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Renaissance_art",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Eyck.hubert.lamb.750pix.jpg/320px-Eyck.hubert.lamb.750pix.jpg",
+    "description": "Painting, sculpture and decorative arts of that period of European history known as the Renaissance.",
+    "group": "Renaissance Art"
   },
   {
     "id": 468,
     "title": "Rococo",
     "url": "rococo",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Rococo",
+    "thumbnailUrl": "https://uploads5.wikiart.org/images/antoine-watteau/faun-1708.jpg!PortraitSmall.jpg",
+    "description": "18th-century artistic movement and style.",
+    "group": "Post Renaissance Art"
   },
   {
     "id": 469,
     "title": "Romanesque",
     "url": "romanesque",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Romanesque_art",
+    "thumbnailUrl": "https://uploads7.wikiart.org/images/hildegard-of-bingen/motherhood-in-the-spirit-and-the-water-1165.jpg!PortraitSmall.jpg",
+    "description": "Artistic style of Europe from approximately 1000 AD to the 13th century.",
+    "group": "Medieval Art"
   },
   {
     "id": 470,
     "title": "Romanticism",
     "url": "romanticism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Romanticism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/250px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+    "description": "Period of artistic, literary, and intellectual movement that started in 18th century Europe.",
+    "group": "Post Renaissance Art"
   },
   {
     "id": 16552,
     "title": "Safavid Period",
     "url": "safavid-period",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Safavid_art",
+    "thumbnailUrl": "https://uploads0.wikiart.org/images/sultan-muhammad/the-feast-of-sada-1522.jpg!PortraitSmall.jpg",
+    "description": "Art of the Persian Safavid dynasty from 1501 to 1722.",
+    "group": "Islamic Art"
   },
   {
     "id": 16249,
     "title": "Shin-hanga",
     "url": "shin-hanga",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Shin-hanga",
+    "thumbnailUrl": "https://uploads4.wikiart.org/images/ohara-koson/three-white-mice-1900.jpg!PortraitSmall.jpg",
+    "description": "An art movement in early 20th-century Japan, during the Taishō and Shōwa periods.",
+    "group": "Japanese Art"
   },
   {
     "id": 16621,
@@ -1114,37 +1114,37 @@
     "id": 473,
     "title": "Social Realism",
     "url": "social-realism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Social_realism",
+    "thumbnailUrl": "https://uploads3.wikiart.org/00261/images/hans-andersen-brendekilde/hans-andersen-brendekilde-aksesamlere-raagelund-1883-fkm157-brandts.png!PortraitSmall.png",
+    "description": "International art movement flourishing in the interwar period. Reacts to the hardships suffered by people after the Great Crash.",
+    "group": "Modern Art"
   },
   {
     "id": 474,
     "title": "Socialist Realism",
     "url": "socialist-realism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Socialist_realism",
+    "thumbnailUrl": "https://uploads1.wikiart.org/images/boris-kustodiev/poster-leningrad-department-of-state-publishing-lengiz-1925.jpg!PortraitSmall.jpg",
+    "description": "A style of idealized realistic art that was developed in the Soviet Union.",
+    "group": "Modern Art"
   },
   {
     "id": 15779,
     "title": "Sōsaku hanga",
     "url": "s-saku-hanga",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Sōsaku-hanga",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yamamoto_1904.jpg/220px-Yamamoto_1904.jpg",
+    "description": "An art movement in early 20th-century Japan.",
+    "group": "Japanese Art"
   },
   {
     "id": 476,
     "title": "Spatialism",
     "url": "spatialism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Spatialism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1953%29_-_BEIC_6342543.jpg/307px-Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1953%29_-_BEIC_6342543.jpg",
+    "description": "An art movement founded by Italian artist Lucio Fontana in Milan in 1947.",
+    "group": "Modern Art"
   },
   {
     "id": 12553,
@@ -1159,46 +1159,46 @@
     "id": 477,
     "title": "Street art",
     "url": "street-art",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Street_art",
+    "thumbnailUrl": "https://uploads2.wikiart.org/images/fab-5-freddy/fred-1979.jpg!PortraitSmall.jpg",
+    "description": "Art that is public and temporary in public spaces.",
+    "group": "Contemporary Art"
   },
   {
     "id": 478,
     "title": "Stuckism",
     "url": "stuckism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Stuckism",
+    "thumbnailUrl": "https://uploads7.wikiart.org/images/godfrey-blow/down-south-1986.jpg",
+    "description": "Art movement founded in 1999 by Billy Childish and Charles Thomson.",
+    "group": "Contemporary Art"
   },
   {
     "id": 480,
     "title": "Suprematism",
     "url": "suprematism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Suprematism",
+    "thumbnailUrl": "https://uploads0.wikiart.org/images/kazimir-malevich/aeroplane-flying-1915.jpg!PortraitSmall.jpg",
+    "description": "An art movement focused on basic geometric forms, such as circles, squares, lines, and rectangles.",
+    "group": "Modern Art"
   },
   {
     "id": 482,
     "title": "Symbolism",
     "url": "symbolism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Symbolism_(arts)",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Death_of_the_Grave_Digger.jpg/230px-The_Death_of_the_Grave_Digger.jpg",
+    "description": "A late nineteenth-century art movement of French, Russian and Belgian origin.",
+    "group": "Modern Art"
   },
   {
     "id": 483,
     "title": "Synchromism",
     "url": "synchromism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Synchromism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/MacDonaldWright_AirplaneSynchYelOrng.jpg/315px-MacDonaldWright_AirplaneSynchYelOrng.jpg",
+    "description": "An art movement founded in 1912 by American artists Stanton MacDonald-Wright and Morgan Russell.",
+    "group": "Modern Art"
   },
   {
     "id": 484,
@@ -1213,45 +1213,45 @@
     "id": 485,
     "title": "Synthetism",
     "url": "synthetism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Synthetism",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Serusier_-_the_talisman.JPG/249px-Serusier_-_the_talisman.JPG",
+    "description": "A term used by post-Impressionist artists like Paul Gauguin, Émile Bernard and Louis Anquetin.",
+    "group": "Modern Art"
   },
   {
     "id": 486,
     "title": "Tachisme",
     "url": "tachisme",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Tachisme",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Serge_Poliakoff_Composition_grise_et_rouge_1964.jpg",
+    "description": "A French style of abstract painting popular in the 1940s and 1950s.",
+    "group": "Modern Art"
   },
   {
     "id": 6721,
     "title": "Tenebrism",
     "url": "tenebrism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Tenebrism",
+    "thumbnailUrl": "https://uploads6.wikiart.org/images/jusepe-de-ribera/portrait-of-an-old-man-with-an-onion.jpg!PortraitSmall.jpg",
+    "description": "A style of painting using profoundly pronounced chiaroscuro, where there are violent contrasts of light and dark.",
+    "group": "Post Renaissance Art"
   },
   {
     "id": 16553,
     "title": "Timurid Period",
     "url": "timurid-period",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Timurid_art",
+    "thumbnailUrl": "https://uploads6.wikiart.org/00127/images/kamal-ud-din-behzad/ein-bettler-vor-der-moschee-illustration-zu-saadis-bust-n-behz-ds-signatur-steht-auf-dem-blatt-das.jpg!PortraitSmall.jpg",
+    "description": "A style of art originating during the rule of the Timurid Empire (1370-1507).",
+    "group": "Islamic Art"
   },
   {
     "id": 487,
     "title": "Tonalism",
     "url": "tonalism",
-    "wikipediaUrl": "",
+    "wikipediaUrl": "Tonalism",
     "thumbnailUrl": "",
-    "description": "",
+    "description": "An artistic style that emerged in the 1880s. Landscape paintings with an overall tone of colored atmosphere or mist.",
     "group": ""
   },
   {
@@ -1267,10 +1267,10 @@
     "id": 489,
     "title": "Transavantgarde",
     "url": "transavantgarde",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Transavantgarde",
+    "thumbnailUrl": "https://uploads0.wikiart.org/00157/images/oleg-holosiy/1985-2.jpg!PortraitSmall.jpg",
+    "description": "An art movement that swept through Italy, and the rest of Western Europe, in the late 1970s and 1980s.",
+    "group": "Contemporary Art"
   },
   {
     "id": 2897,
@@ -1285,28 +1285,28 @@
     "id": 491,
     "title": "Ukiyo-e",
     "url": "ukiyo-e",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Ukiyo-e",
+    "thumbnailUrl": "https://uploads4.wikiart.org/images/ito-jakuchu/old-pine-tree-and-peacock-1761.jpg!PortraitSmall.jpg",
+    "description": "A genre of Japanese art which flourished from the 17th through 19th centuries.",
+    "group": "Japanese Art"
   },
   {
     "id": 8959,
     "title": "Verism",
     "url": "verism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Verism",
+    "thumbnailUrl": "https://uploads0.wikiart.org/images/federico-zandomeneghi/lady-in-red-1873.jpg!PortraitSmall.jpg",
+    "description": "The artistic preference of contemporary everyday subject matter instead of the heroic or legendary.",
+    "group": "Modern Art"
   },
   {
     "id": 16527,
     "title": "Yamato-e",
     "url": "yamato-e",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Yamato-e",
+    "thumbnailUrl": "https://uploads6.wikiart.org/images/tosa-mitsuoki/illustration-of-the-genji-monogatari-asagao-the-blue-bell.jpg!PortraitSmall.jpg",
+    "description": "A style of Japanese painting of the late Heian period and inspired by Tang dynasty paintings",
+    "group": "Japanese Art"
   },
   {
     "id": 16557,
@@ -1321,19 +1321,19 @@
     "id": 16671,
     "title": "Figurative Expressionism",
     "url": "figurative-expressionism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "American_Figurative_Expressionism",
+    "thumbnailUrl": "https://uploads8.wikiart.org/00148/images/diego-rivera/web792.jpg!PortraitSmall.jpg",
+    "description": "A 20th-century visual art style or movement that first took hold in Boston.",
+    "group": "Modern Art"
   },
   {
     "id": 16681,
     "title": "Street Photography",
     "url": "street-photography",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Street_photography",
+    "thumbnailUrl": "https://uploads2.wikiart.org/00237/images/alfred-freddy-krupa/12694772-10208364878737213-8441064294032761650-o.jpg!PortraitSmall.jpg",
+    "description": "Photography conducted for art or enquiry that features random incidents within public places.",
+    "group": "Modern Art"
   },
   {
     "id": 16686,
@@ -1375,10 +1375,10 @@
     "id": 16731,
     "title": "Mozarabic",
     "url": "mozarabic",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Mozarabic_art_and_architecture",
+    "thumbnailUrl": "https://uploads8.wikiart.org/00108/images/ende/beatus-gerona-f3-4.jpg!PortraitSmall.jpg",
+    "description": "Refers to art of Mozarabs, Iberian Christians living in Al-Andalus.",
+    "group": "Medieval Art"
   },
   {
     "id": 0,
@@ -1402,10 +1402,10 @@
     "id": 0,
     "title": "Digital Art",
     "url": "digital-art",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Digital_art",
+    "thumbnailUrl": "https://uploads6.wikiart.org/00188/images/manuel-alcaide-mengual/ciano-k-7.jpg!PortraitSmall.jpg",
+    "description": "Collective term for art that is generated digitally with the computer",
+    "group": "Contemporary Art"
   },
   {
     "id": 0,
@@ -1447,10 +1447,10 @@
     "id": 0,
     "title": "Sumi-e (Suiboku-ga)",
     "url": "suiboku-ga-0",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Ink_wash_painting",
+    "thumbnailUrl": "https://uploads5.wikiart.org/00145/images/kano-masanobu/800px-zhou-maoshu-appreciating-lotuses.jpg!PortraitSmall.jpg",
+    "description": "A type of East Asian brush painting that uses black ink in different concentrations.",
+    "group": "Japanese Art"
   },
   {
     "id": 0,
@@ -1537,19 +1537,19 @@
     "id": 0,
     "title": "Fantasy Art",
     "url": "fantasy-art",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Fantastic_art",
+    "thumbnailUrl": "https://uploads1.wikiart.org/00147/images/brian-froud/fb1020e2f79e89ed93598edb286f7e84-brian-froud-fairy-art.jpg!PortraitSmall.jpg",
+    "description": "A type of art that explores fantasy and imagination.",
+    "group": "Contemporary Art"
   },
   {
     "id": 0,
     "title": "Contemporary",
     "url": "contemporary",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Contemporary_art",
+    "thumbnailUrl": "https://uploads7.wikiart.org/00144/images/vasiliy-ryabchenko/3-vasiliy-ryabchenko-prince-65-50-cm-paper-pastel-pencils-1994.JPG!PortraitSmall.JPG",
+    "description": "Art of the present time beginning with Pop Art and Conceptual Art.",
+    "group": "Contemporary Art"
   },
   {
     "id": 0,
@@ -1582,46 +1582,46 @@
     "id": 0,
     "title": "Hellenistic",
     "url": "hellenistic-period",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Hellenistic_art",
+    "thumbnailUrl": "https://uploads4.wikiart.org/00202/images/apelles/aphrodite-anadyomene-from-pompeii-face.jpg!PortraitSmall.jpg",
+    "description": "The art of the Hellenistic period generally taken to begin with the death of Alexander the Great.",
+    "group": "Ancient Greek Art"
   },
   {
     "id": 0,
     "title": "Early Byzantine (c. 330–750)",
     "url": "early-byzantine-c-330-750",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Byzantine_art",
+    "thumbnailUrl": "https://uploads3.wikiart.org/00211/images/byzantine-mosaics/martyrdom-of-st-lawrence-1.jpg!PortraitSmall.jpg",
+    "description": "Art of the Early Byzantine (Eastern Roman) Empire",
+    "group": "Medieval Art"
   },
   {
     "id": 0,
     "title": "Middle Byzantine (c. 850–1204)",
     "url": "middle-byzantine-c-850-1204",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Byzantine_art",
+    "thumbnailUrl": "https://uploads0.wikiart.org/00211/images/byzantine-mosaics/apse-mosaic-hagia-sophia-virgin-and-child.jpg!PortraitSmall.jpg",
+    "description": "Art of the Middle Byzantine (Eastern Roman) Empire",
+    "group": "Medieval Art"
   },
   {
     "id": 0,
     "title": "Late Byzantine/Palaeologan Renaissance (c. 1261–1453)",
     "url": "late-byzantine-c-1261-1453",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Byzantine_art",
+    "thumbnailUrl": "https://uploads5.wikiart.org/00211/images/byzantine-mosaics/annunciation-sofia-kievskaya.jpg!PortraitSmall.jpg",
+    "description": "Art of the Late Byzantine or Palaeologan (Eastern Roman) Empire",
+    "group": "Medieval Art"
   },
   {
     "id": 0,
     "title": "Macedonian Renaissance (867–1056)",
     "url": "macedonian-renaissance-867-1056",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Macedonian_Renaissance",
+    "thumbnailUrl": "https://uploads6.wikiart.org/00211/images/byzantine-mosaics/detail-of-the-imperial-gate-mosaic-in-hagia-sophia-showing-leo-vi-the-wise.jpg!PortraitSmall.jpg",
+    "description": "Byzantine empire cultural movement during the reign of the Macedonian dynasty.",
+    "group": "Medieval Art"
   },
   {
     "id": 0,
@@ -1636,19 +1636,19 @@
     "id": 459,
     "title": "Precisionism",
     "url": "precisionism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Precisionism",
+    "thumbnailUrl": "https://uploads8.wikiart.org/images/morton-shamberg/painting-iv-mechanical-abstraction-1916.jpg!PortraitSmall.jpg",
+    "description": "The first indigenous modern art movement in the United States.",
+    "group": "Modern Art"
   },
   {
     "id": 2449,
     "title": "Transautomatism",
     "url": "transautomatism",
-    "wikipediaUrl": "",
-    "thumbnailUrl": "",
-    "description": "",
-    "group": ""
+    "wikipediaUrl": "Transautomatism",
+    "thumbnailUrl": "https://uploads7.wikiart.org/images/friedensreich-hundertwasser/the-arab.jpg!PortraitSmall.jpg",
+    "description": "A modern style of painting founded by Friedensreich Hundertwasser.",
+    "group": "Modern Art"
   },
   {
     "id": 0,
