@@ -30,8 +30,6 @@ export class ArtistsPage implements OnInit {
   }
 
   public smallImageUrl(url: string): string {
-    return url.toLowerCase()
-      .replace(/jpg\!.*$/, 'jpg!PortraitSmall.jpg')
-      .replace(/png\!.*$/, 'png!PortraitSmall.png');
+    return this.wikiArtService.smallImageUrl(url);
   }
 }
